@@ -1,2 +1,2 @@
 # Rustbook
-My progress with the Rust Book 
+I will use this repo to track my progress in the Rust book and to get practice in using git. This repo will also be usefull to enable me studying Rust on different machines and keeping my progress synchronized.
