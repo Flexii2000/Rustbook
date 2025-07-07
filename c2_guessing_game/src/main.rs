@@ -3,7 +3,7 @@ use std::io;
 fn main() {// Guessing Game in Rust
     println!("Welcome to the Guessing Game!");
 
-    println!("Please enter your guess between 0 and 90");
+    println!("Please enter your guess between 0 and 100");
 
     let mut guess = String::new();
 
